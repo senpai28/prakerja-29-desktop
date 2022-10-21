@@ -1,0 +1,16 @@
+/* EXTERNAL CSS  */
+#copy {
+    color: maroon;
+    background-color: beige;
+}
+.background-pink {
+    background-color: pink;
+}
+.text-brown {
+    color: brown;
+}
+.artikel h1 {
+    color: #fb8500;
+    background-color: blue;
+    font-size: 24px;
+}
